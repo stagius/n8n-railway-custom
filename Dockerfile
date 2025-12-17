@@ -1,6 +1,6 @@
 FROM node:22-alpine
 
-// or latest
+# or latest
 ARG N8N_VERSION=1.123.6
 ARG PGPASSWORD
 ARG PGHOST
